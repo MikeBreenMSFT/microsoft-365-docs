@@ -50,7 +50,7 @@ The right-hand navigation pane allows you to quickly navigate to sections within
 
 ## Submit docs feedback
 
-If you find something wrong within an article, you can submit feedback to the SQL Content team for that article by scrolling down to the bottom of the page and selecting **Content feedback**.
+If you find something wrong within an article, you can submit feedback to the Content team for that article by scrolling down to the bottom of the page and selecting **Content feedback**.
 
 ![Git Issue content feedback.](media/m365-article-feedback.png)
 
